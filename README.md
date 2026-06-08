@@ -1,9 +1,9 @@
-<H3 ALIGN=RIGHT> DATE:<H3>
 
-<H1 ALIGN=CENTER> Experiment-5: Implementation of Kalman filter </H1>
 
-### Name: 
-### Register Number:
+Experiment-5: Implementation of Kalman filter </H1>
+
+### Name: SRINATH N
+### Register Number:2305003009
 
 
 ## Aim:
@@ -77,8 +77,8 @@ plt.show()
 ___
 
 ## Output:
+<img width="541" height="403" alt="image" src="https://github.com/user-attachments/assets/438b9a09-5366-44fb-85f0-2353d9e13180" />
 
----
 
 ## Result:
 Thus, Kalman filter is implemented to predict the next position and   velocity in Python
